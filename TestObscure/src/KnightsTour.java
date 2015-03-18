@@ -1,6 +1,6 @@
 
 public interface KnightsTour {
-	
+	//my changes
 	public static final int SQUARE_UNVISITED = -1;
 	
 	/**
