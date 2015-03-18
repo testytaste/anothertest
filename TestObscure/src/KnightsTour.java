@@ -2,7 +2,7 @@
 public interface KnightsTour {
 	//my changes
 	public static final int SQUARE_UNVISITED = -1;
-	
+	//this is a change!
 	/**
 	 * prepare the board for the knight
 	 */
